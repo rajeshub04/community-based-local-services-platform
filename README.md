@@ -13,7 +13,7 @@ One is advised to read the documentation in the order given above to understand 
 
 1. Open the file in `Visual Studio 2022`
 2. Click on -> `Assignment 3`
-3. The application starts!
+3. The Application starts!
 
 # Credits
 
